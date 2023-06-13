@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Programação orientada a objetos\Métodos de classes em C#\Métodos de classes em C#\bin\Debug\Métodos de classes em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Programação orientada a objetos\Métodos de classes em C#\Métodos de classes em C#\bin\Debug\Métodos de classes em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Programação orientada a objetos\Métodos de classes em C#\Métodos de classes em C#\bin\Debug\Métodos de classes em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Programação orientada a objetos\Métodos de classes em C#\Métodos de classes em C#\obj\Debug\Métodos de classes em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Programação orientada a objetos\Métodos de classes em C#\Métodos de classes em C#\obj\Debug\Métodos de classes em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Programação orientada a objetos\Métodos de classes em C#\Métodos de classes em C#\obj\Debug\Métodos de classes em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Programação orientada a objetos\Métodos de classes em C#\Métodos de classes em C#\obj\Debug\Métodos de classes em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Programação orientada a objetos\Métodos de classes em C#\Métodos de classes em C#\obj\Debug\Métodos de classes em C#.pdb
