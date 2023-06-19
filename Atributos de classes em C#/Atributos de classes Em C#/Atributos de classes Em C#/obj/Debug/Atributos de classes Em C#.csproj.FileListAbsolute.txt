@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Atributos de classes em C#\Atributos de classes Em C#\Atributos de classes Em C#\bin\Debug\Atributos de classes Em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Atributos de classes em C#\Atributos de classes Em C#\Atributos de classes Em C#\bin\Debug\Atributos de classes Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Atributos de classes em C#\Atributos de classes Em C#\Atributos de classes Em C#\bin\Debug\Atributos de classes Em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Atributos de classes em C#\Atributos de classes Em C#\Atributos de classes Em C#\obj\Debug\Atributos de classes Em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Atributos de classes em C#\Atributos de classes Em C#\Atributos de classes Em C#\obj\Debug\Atributos de classes Em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Atributos de classes em C#\Atributos de classes Em C#\Atributos de classes Em C#\obj\Debug\Atributos de classes Em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Atributos de classes em C#\Atributos de classes Em C#\Atributos de classes Em C#\obj\Debug\Atributos de classes Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Atributos de classes em C#\Atributos de classes Em C#\Atributos de classes Em C#\obj\Debug\Atributos de classes Em C#.pdb
