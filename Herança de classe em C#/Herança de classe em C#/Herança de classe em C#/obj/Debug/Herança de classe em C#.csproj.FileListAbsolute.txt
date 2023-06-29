@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Herança de classe em C#\Herança de classe em C#\Herança de classe em C#\bin\Debug\Herança de classe em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Herança de classe em C#\Herança de classe em C#\Herança de classe em C#\bin\Debug\Herança de classe em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Herança de classe em C#\Herança de classe em C#\Herança de classe em C#\bin\Debug\Herança de classe em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Herança de classe em C#\Herança de classe em C#\Herança de classe em C#\obj\Debug\Herança de classe em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Herança de classe em C#\Herança de classe em C#\Herança de classe em C#\obj\Debug\Herança de classe em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Herança de classe em C#\Herança de classe em C#\Herança de classe em C#\obj\Debug\Herança de classe em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Herança de classe em C#\Herança de classe em C#\Herança de classe em C#\obj\Debug\Herança de classe em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Herança de classe em C#\Herança de classe em C#\Herança de classe em C#\obj\Debug\Herança de classe em C#.pdb
